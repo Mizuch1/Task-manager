@@ -136,9 +136,9 @@ asment-task-manager/
       <em>Dashboard View</em>
     </td>
     <td align="center">
-      <img src="images%20for%20read%20me/Detailed%20Task%20View%20Tracking%20and%20Verification.png" alt="Task Detail View" width="100%">
+      <img src="images%20for%20read%20me/login%20page%20mobile.PNG" alt="Task Detail View" width="100%">
       <br>
-      <em>Task Detail View</em>
+      <em>Mobile Login Screen</em>
     </td>
   </tr>
 </table>
@@ -147,9 +147,9 @@ asment-task-manager/
 <table>
   <tr>
     <td align="center">
-      <img src="images%20for%20read%20me/login%20page%20mobile.PNG" alt="Mobile Login" width="40%">
+      <img src="images%20for%20read%20me/Detailed%20Task%20View%20Tracking%20and%20Verification.png" alt="Mobile Login" width="40%">
       <br>
-      <em>Mobile Login Screen</em>
+      <em>Task Detail View</em>
     </td>
     <td align="center">
       <img src="images%20for%20read%20me/Multi-Step%20Task%20Creation%20Wizard%20(Dark%20Mode).jpg" alt="Mobile My Tasks" width="40%">
@@ -179,7 +179,7 @@ asment-task-manager/
 <table>
   <tr>
     <td align="center">
-      <img src="images%20for%20read%20me/Technical%20Flow%20React%20SPA%20to%20Backend%20Services.png" alt="Technical Architecture" width="100%">
+      <img src="images%20for%20read%20me/Technical%20Flow%20React%20SPA%20to%20Backend%20Services.png" alt="Technical Architecture" width="60%">
       <br>
       <em>Technical Flow Architecture</em>
     </td>
