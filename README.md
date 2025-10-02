@@ -171,17 +171,6 @@ asment-task-manager/
 └── README.md               # This file
 ```
 
-## 🧹 Cleaned Up Files
-
-The following unnecessary test and setup files have been removed:
-- `server/test-login.js` - Old test file
-- `server/check-db.js` - Old database check file  
-- `server/setup-db.js` - Old database setup file
-- `test-login.html` - Old HTML test file
-
-These files were no longer needed for the production application and have been cleaned up for better project organization.
-
----
 
 ## 📸 Screenshots
 
