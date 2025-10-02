@@ -1,5 +1,0 @@
-{
-  "name": "Asment Task Manager",
-  "description": "A simple task management web application for Asment Témara, designed for an internship project. All data is stored in-memory and will be reset on application refresh.",
-  "requestFramePermissions": []
-}
