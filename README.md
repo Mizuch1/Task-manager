@@ -159,7 +159,7 @@ asment-task-manager/
 │   ├── init.sql            # Database schema
 │   ├── package.json
 │   └── seed.js             # Database seeder
-├── src/                    # React Frontend (details in old readme)
+├── src/                    # React Frontend 
 │   ├── components/
 │   ├── contexts/
 │   ├── hooks/
