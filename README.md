@@ -4,10 +4,12 @@
 
 A powerful, full-stack task management web application designed for Asment Témara. This application provides a clean, modern interface for managing tasks across different departments, with role-based access and insightful analytics, all backed by a robust PostgreSQL database.
 
+_Made with ☕ and 💻 by Mizuchi_
+>>>>>>> master
 ---
+👤 Author
 
-## ✨ Features
-
+_Made with ☕ and 💻 by Mizuchi_
 This application provides a comprehensive task management experience with a modern, responsive interface.
 
 ### 📝 Task Management
@@ -288,6 +290,9 @@ This project is licensed under the MIT License.
 - Special thanks to the open-source community for providing amazing tools and libraries.
 
 ---
-👤 Author
+� Author
 
+
+=======
 _Made with ☕ and 💻 by Mizuchi_
+>>>>>>> master
