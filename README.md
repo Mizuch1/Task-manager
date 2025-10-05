@@ -264,7 +264,7 @@ This project is licensed under the MIT License.
 
 [![Email](https://img.shields.io/badge/Email-mohamed.jbilou.it@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohamed.jbilou.it@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamedjbilou/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://my-portfolio-iota-ten-95.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://mohamedjbilou.vercel.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mizuch1)
 
 </div>
